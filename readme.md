@@ -8,28 +8,28 @@ While searching online, I happened to come across a few useful online resources.
 * [OSH Park](https://oshpark.com/)
 * [Mouser](https://www.mouser.com)
 
-![alt text](img\Full.jpg)
+![alt text](img/Full.jpg)
 
 ## Functionality
 
-![alt text](img\functionality.png)
+![alt text](img/functionality.png)
 ## Schematic - KiCad, Ti Power Deisgner  
 * [KiCad](https://www.kicad.org/)  
-![alt text](img\KiCad.png)
+![alt text](img/KiCad.png)
 
 ## PCB Layout - KiCad  
 * Front side
-![Front side](img\Front.png)
+![Front side](img/Front.png)
 * Back side
-![Back side](img\Back.png)
+![Back side](img/Back.png)
 
 ### PCB Fabrication - OSH Park  
-![alt text](img\PCB.jpg)
+![alt text](img/PCB.jpg)
 
 ### Order Components - Mouser  
 
 ### Solder  
-![alt text](img\Solder.jpg)
+![alt text](img/Solder.jpg)
 
 ### Firmware  
 * Programmer: STLINK-V3SET
